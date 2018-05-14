@@ -12,7 +12,6 @@ repos=(
   altercation/vim-colors-solarized
   ap/vim-css-color
   arcticicestudio/nord-vim
-  docunext/closetag.vim
   ervandew/supertab
   haya14busa/incsearch.vim
   itchyny/lightline.vim
@@ -39,6 +38,8 @@ repos=(
   tpope/vim-unimpaired
   w0rp/ale
   wellle/targets.vim
+  alvan/vim-closetag
+  cohama/lexima.vim
 
 )
 
