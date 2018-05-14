@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 { # This ensures the entire script is downloaded.
-
+# Edit test
 set -e
 
 basedir=$HOME/.dotfiles
