@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
 
 { # This ensures the entire script is downloaded.
-# Edit test
+
 set -e
 
 basedir=$HOME/.dotfiles
 bindir=$HOME/bin
-repourl=git://github.com/statico/dotfiles.git
+repourl=git://github.com/dhungtrinh/dotfiles.git
+
 
 function symlink() {
   src=$1
